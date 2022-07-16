@@ -1,3 +1,4 @@
+//practice simple crud//same page form and table
 import React,{useState} from "react";
 import {useNavigate} from "react-router-dom"
 import { DeleteOutlined,PlusOutlined,CheckSquareOutlined,EditOutlined} from "@ant-design/icons";
